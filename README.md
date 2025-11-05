@@ -1,9 +1,9 @@
 # File-Lister
 It lists the contents of your directories and saves them as txt.
 
-EN - TR Language (embedded)
-
 <img width="64" height="64" alt="filelister" src="https://github.com/user-attachments/assets/2e2b9b05-faac-4b1e-86c7-6bee8a5960a1" />
+
+EN - TR Language (embedded)
 
 <img width="612" height="584" alt="Ekran görüntüsü_2025-11-06_00-58-07" src="https://github.com/user-attachments/assets/e76d9cb2-77be-4e65-ab02-25973be03d79" />
 
