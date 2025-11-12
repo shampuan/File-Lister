@@ -1,0 +1,10 @@
+Package: filelister
+Version: 1.0.4
+Architecture: all
+Maintainer: A. Serhat KILIÇOĞLU <www.github.com/shampuan>
+Depends: python3 (>= 3.6), python3-pip, libqt6core6, libqt6widgets6, libqt6gui6, libxcb-cursor0
+Section: utils
+Priority: optional
+Homepage: www.github.com/shampuan
+Description: A simple utility for listing directory contents and saving them as TXT files.
+ File Lister, seçtiğiniz dizinlerin içeriğini listeleyerek TXT çıktısı almanızı sağlayan basit bir araçtır.

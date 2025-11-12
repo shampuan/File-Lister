@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name[en]=File Lister
+Name[tr]=Dosya Listeleyici
+Comment=List directory contents and export to TXT.
+Comment[tr]=Dizin içeriklerini listele ve TXT olarak dışa aktar.
+Exec=/usr/bin/file-lister
+Icon=filelister.png
+Terminal=false
+Type=Application
+Categories=Utility;Filesystem;
+Keywords=file lister;directory;listeleme;dizin;dosya;
+StartupNotify=true
