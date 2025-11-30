@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=File Lister
+Comment=File and directory listing tool with advanced ASCII tree view
+Comment[tr]=Gelişmiş ASCII ağaç görünümü ile dosya ve dizin listeleme aracı
+Exec=/usr/share/filelister/file-lister.py
+Icon=filelister
+Terminal=false
+Type=Application
+Categories=Utility;FileTools;
+Keywords=dosya;listeleyici;tree;dizin;klasör;filelister;folderlister;lister
+StartupNotify=true
